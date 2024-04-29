@@ -2,3 +2,4 @@ vars.tfvars
 .terraform/providers/registry.terraform.io/hashicorp/google/4.52.0/windows_amd64/terraform-provider-google_v4.52.0_x5.exe
 .terraform/providers/registry.terraform.io/hashicorp/local/2.5.1/windows_amd64/terraform-provider-local_v2.5.1_x5.exe
 .terraform/modules/gke_cluster
+.terraform/modules/gke_cluster
